@@ -1,0 +1,9 @@
+{
+    "name": "dionne/beauty",
+    "description": "API for Simply Beauty Ecommerce Website",
+    "type": "project",
+    "require": {
+        "csanquer/pdo-service-provider": "1.1.x-dev"
+    },
+    "minimum-stability": "dev"
+}

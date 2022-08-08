@@ -2,6 +2,7 @@
 
 
 include '../beauty/config.php';
+header("Access-Control-Allow-Origin: *");
 
 
 $rest_json = file_get_contents("php://input");
