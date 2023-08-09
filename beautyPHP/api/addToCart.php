@@ -1,7 +1,7 @@
 <?php
 
 
-include '../beauty/config.php';
+include '../api/config.php';
 
 
 

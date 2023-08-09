@@ -1,7 +1,7 @@
 <?php
 
 
-include '../beauty/config.php';
+include '../api/config.php';
 
 if (isset($_REQUEST["id"])) {
     $id = $_REQUEST["id"];

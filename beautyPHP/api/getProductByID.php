@@ -1,7 +1,7 @@
 <?php
 
 
-include '../beauty/config.php';
+include '../api/config.php';
 
 
 //gets user input
@@ -11,8 +11,7 @@ if (isset($_REQUEST["id"])) {
     $id = "";
 }
 
-$sql = "SELECT * FROM simplyBeauty.Product_Details WHERE Product_ID = $id ";
-//$sql = "SELECT Product_Details.Product_ID, Product_Details.Description,Product_Details.Image, Hair_Length.Length, Hair_Length.Quantity,Hair_Length.Price FROM Product_Details INNER JOIN Hair_Length on Product_Details.Product_ID = Hair_Length.Product_ID WHERE Product_Details.Product_ID = $id";
+$sql = "SELECT * FROM id21128178_simplybeauty.Product_Details WHERE Product_ID = $id ";
 
 $res = mysqli_query($link, $sql);
 

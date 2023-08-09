@@ -2,10 +2,10 @@
 
 header("Access-Control-Allow-Origin: *");
 
-include '../beauty/config.php';
+include '../api/config.php';
 
 //gets the name and image for all categories 
-$sql = "SELECT Category_ID,Name,Image FROM simplyBeauty.Product_Category";
+$sql = "SELECT Category_ID,Name,Image FROM id21128178_simplybeauty.Product_Category";
 
 
 

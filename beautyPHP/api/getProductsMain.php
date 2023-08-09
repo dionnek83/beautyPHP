@@ -1,10 +1,10 @@
 <?php
 
 
-include '../beauty/config.php';
+include '../api/config.php';
 
 
-$sql = "SELECT * FROM simplyBeauty.Product_Details";
+$sql = "SELECT * FROM id21128178_simplybeauty.Product_Details";
 
 
 
