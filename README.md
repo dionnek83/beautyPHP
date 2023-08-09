@@ -2,7 +2,8 @@
 
 This the API created for the Simply beauty ecommerce website located here : https://incandescent-boba-f0ac14.netlify.app
 
-![image](https://github.com/dionnek83/beautyPHP/assets/42995303/34f7ef27-614c-44fa-bfbb-5513c785ccde)
+![image](https://github.com/dionnek83/beautyPHP/assets/42995303/ba4be8eb-e9af-4a85-9403-6888de6054f8)
+
 
 
 ## API endpoints 
